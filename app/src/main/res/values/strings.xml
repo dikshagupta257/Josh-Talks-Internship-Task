@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CandyCrushToolTips</string>
+    <string name="play">Play!</string>
+    <string name="FirstDialog">Yeti here, reporting for Crusher duty! What do ya need me to do, Tiffi?</string>
+    <string name="SecondDialog">Drag matching candies to make a row! 3 candies will make magic.</string>
+    <string name="ThirdDialog">Collect blue candies to meet the goal for this level.</string>
+</resources>
